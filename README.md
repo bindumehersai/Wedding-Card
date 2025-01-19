@@ -1,7 +1,5 @@
 # 🌸 **Digital Wedding Invitation** 🌸
 
-![Project Screenshot](./assets/img/wedding-invitation.png)
-
 ## ✨ **Overview**
 Welcome to **Digital Wedding Invitation**, a beautifully crafted, open-source project designed to bring the magic of your wedding to life online. This interactive and customizable wedding invitation webpage offers a visually captivating experience, complete with countdown timers, stunning animations, and seamless media integration. It’s the perfect way to invite your loved ones to celebrate your big day, no matter where they are!
 
@@ -23,4 +21,7 @@ Get this project up and running locally with these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/cybertiwari/WeddingInvitation.git
+   git clone https://github.com/bindumehersai/Wedding-Card.git
+
+   ```bash
+   run the index.html file
