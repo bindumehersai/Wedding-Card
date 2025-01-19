@@ -14,7 +14,6 @@ This project uses the following technologies to create a delightful user experie
 - **HTML5, CSS3, and JavaScript**: The foundation of the webpage for structure, styling, and interactivity.
 - **Font Awesome**: Beautiful icons to enhance the user interface.
 - **Google Fonts**: Custom fonts for a touch of elegance.
-- **SweetAlert**: Eye-catching alerts to surprise and engage your visitors.
 
 ## 🚀 **Installation**
 Get this project up and running locally with these simple steps:
@@ -22,6 +21,6 @@ Get this project up and running locally with these simple steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/bindumehersai/Wedding-Card.git
-
+2. **Run**:
    ```bash
    run the index.html file
