@@ -22,6 +22,6 @@ Get this project up and running locally with these simple steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/bindumehersai/Wedding-Card.git
-
+2. **Run**:
    ```bash
    run the index.html file
